@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82ce47f5-f76e-4192-bec8-fd10d7b6f2fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1s3K7ogwWikgBgPXwx7I6PIpeGT" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring5_demo 2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\spring5_demo\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.testSpring5.testBook">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jh.spring5.User" />
+      <module name="spring5_demo" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSpring5.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring5_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jh.spring5.testDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jh.spring5.testDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.jh.spring5.testDemo.testSpring5" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSpring5.testBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring5_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jh.spring5.testDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jh.spring5.testDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.jh.spring5.testDemo.testSpring5" />
+      <option name="METHOD_NAME" value="testBook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSpring5.testOrders" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring5_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jh.spring5.testDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jh.spring5.testDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.jh.spring5.testDemo.testSpring5" />
+      <option name="METHOD_NAME" value="testOrders" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.testSpring5.testAdd" />
+      <item itemvalue="JUnit.testSpring5.testBook" />
+      <item itemvalue="JUnit.testSpring5.testOrders" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.testSpring5.testBook" />
+        <item itemvalue="JUnit.testSpring5.testOrders" />
+        <item itemvalue="JUnit.testSpring5.testAdd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82ce47f5-f76e-4192-bec8-fd10d7b6f2fc" name="Default Changelist" comment="" />
+      <created>1620095668448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620095668448</updated>
+      <workItem from="1620095673574" duration="1716000" />
+      <workItem from="1620213281628" duration="740000" />
+      <workItem from="1620221524918" duration="73000" />
+      <workItem from="1620345711281" duration="530000" />
+      <workItem from="1620348461480" duration="600000" />
+      <workItem from="1620375105425" duration="20000" />
+      <workItem from="1620396777946" duration="12000" />
+      <workItem from="1620398102150" duration="645000" />
+      <workItem from="1620525960819" duration="24000" />
+      <workItem from="1628389802198" duration="93000" />
+      <workItem from="1628391863762" duration="3455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="958" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1628393796483">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="958" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1628393796483" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1628396465398">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1628396465398" />
+    <state width="724" height="178" key="GridCell.Tab.0.bottom" timestamp="1628396466255">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="178" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1628396466255" />
+    <state width="724" height="178" key="GridCell.Tab.0.center" timestamp="1628396466255">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="178" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1628396466255" />
+    <state width="724" height="178" key="GridCell.Tab.0.left" timestamp="1628396466255">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="178" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1628396466255" />
+    <state width="724" height="178" key="GridCell.Tab.0.right" timestamp="1628396466255">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="178" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1628396466255" />
+    <state x="485" y="326" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1620096215544">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="485" y="326" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1620096215543" />
+  </component>
+</project>
